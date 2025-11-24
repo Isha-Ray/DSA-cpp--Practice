@@ -66,7 +66,7 @@ int main()
     */
 
 
-/*Bitwise Operator 
+/* Bitwise Operator -------------------------------------
     
 Operator	        Symbol	                            Description	                                    Example (in binary)
 AND	                   &	                    Sets bit to 1 if both bits are 1	                     1101 & 1011 = 1001
@@ -78,10 +78,23 @@ RIGHT SHIFT	           >>	                Shifts bits right, fills with 0s or si
 
 */
 
+/* Assignment Operator ---------------------------------
+
+int a = 10;
+    a += 5;   // a = 15
+    a *= 2;   // a = 30
+    a -= 10;  // a = 20
+
+    cout << "Final value of a: " << a;
+
+    Output---------------------------------------------
+
+    Final value of a: 20
+
+*/
+
+
     
 
-
-
-    
 
 }
